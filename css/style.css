@@ -1,0 +1,12 @@
+.transforma
+{
+    border: 2px solid #3d0101;
+    box-shadow: 10px 10px 10px #0006;
+    margin:10px;
+}
+
+.transforma:hover
+{
+    z-index:+10;
+	transform: scale(1.3);
+}
